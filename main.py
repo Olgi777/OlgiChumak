@@ -1,7 +1,3 @@
 print('hello')
 print('Olgi777')
-print('hello')
-print('hello')
-print('hello')
-print('hello')
-print('hello')
+print('Olgi777')
